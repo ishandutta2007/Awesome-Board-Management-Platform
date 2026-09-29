@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Board-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Board-Management-Platform?style=flat-square" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Board-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Board-Management-Platform?style=flat-square" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Board-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Board-Management-Platform?style=flat-square" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Board-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Board-Management-Platform?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -53,7 +53,7 @@ A curated directory of leading **SaaS board portals**, enterprise **governance s
 
 These self-hosted repositories and frameworks offer transparent board operations, Governance, Risk & Compliance (GRC) engines, agile committee tools, and AI-native meeting automation.
 
-| Repo & Link | Stars | Description & Key Features | License | Stack |
+| Repo & Link | GitHub_Stars | Description & Key Features | License | Stack |
 | :--- | :--- | :--- | :--- | :--- |
 | **[mattermost-community/focalboard](https://github.com/mattermost-community/focalboard/stargazers)** 📌 | <a href="https://github.com/mattermost-community/focalboard/stargazers"><img src="https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white" alt="Focalboard Stars"/></a> | Open-source project board tool with Kanban, table, gallery, and calendar views for tracking committee action items. | AGPL-3.0 | Go, TypeScript, React |
 | **[opf/openproject](https://github.com/opf/openproject/stargazers)** 📅 | <a href="https://github.com/opf/openproject/stargazers"><img src="https://img.shields.io/github/stars/opf/openproject?style=social&color=white" alt="OpenProject Stars"/></a> | Open-source management software with structured meeting module, agenda management, and meeting minutes tracking. | GPL-3.0 | Ruby on Rails, Angular |
